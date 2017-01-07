@@ -71,4 +71,16 @@ vim
 yaourt
 base-devel
 git
-
+xorg-server
+xorg-server-utils
+xorg-utils
+xterm
+xorg-twm
+xorg-xclock
+xorg-xinit
+xorg-drivers
+firefox
+xfce4
+xfce4-goodies
+valgrind
+ltris
