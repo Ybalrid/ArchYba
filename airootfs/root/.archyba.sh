@@ -36,9 +36,10 @@ callPacstrap()
         zsh \
         grml-zsh-config \
         ltris \
-
-
+        zip \
+        unzip \
+        wget \
+        openssh
 }
 
 alias pacstrapYba=callPacstrap
-
