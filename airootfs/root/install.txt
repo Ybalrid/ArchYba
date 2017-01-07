@@ -1,3 +1,8 @@
+This ISO was customized by Ybalrid. 
+You should be able to install this system as any ArchLinux installation,
+but you'll probably end-up with some weird vim configuration, and a French
+keyboard layout by default, and additional software you may not want. 
+
 View this installation guide online at
 https://wiki.archlinux.org/index.php/Installation_Guide
 
