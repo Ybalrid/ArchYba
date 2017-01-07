@@ -87,4 +87,5 @@ ltris
 zip
 unzip
 openssh
-
+cowsay
+figlet

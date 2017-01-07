@@ -39,7 +39,11 @@ callPacstrap()
         zip \
         unzip \
         wget \
-        openssh
+        openssh \
+        cowsay \
+        figlet \
+
+
 }
 
 alias pacstrapYba=callPacstrap
