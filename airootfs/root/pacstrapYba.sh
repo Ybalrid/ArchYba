@@ -33,6 +33,22 @@ pacstrap $1 \
     openssh \
     cowsay \
     figlet \
+    gparted \
+    blender \
+    gimp \
+    blender \
+    doxygen \
+    graphviz \
+    thunderbird \
+    moc \
+    gst-plugin-good \
+    gst-plugin-bad \
+    gst-plugin-base \
+    gstreamer \
+    gstreamer0.10-plugins \
+    armagetronad \
+    pidgin \
+    pidgin-otr\
 
 #copy config files
 
