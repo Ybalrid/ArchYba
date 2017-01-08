@@ -15,7 +15,7 @@ pacstrap $1 \
     xorg-server \
     xorg-server-utils \
     xorg-twm \
-    xorg-xcloxk \
+    xorg-xclock \
     xorg-xinit \
     xorg-drivers \
     firefox \
@@ -39,4 +39,4 @@ pacstrap $1 \
 cp /etc/vimrc $1/etc/vimrc
 cp /etc/vconsole.conf $1/etc/vconsole.conf
 cp /etc/locale.conf $1/etc/locale.conf
-
+cp -r /etc/X11 $1/etc/X11
