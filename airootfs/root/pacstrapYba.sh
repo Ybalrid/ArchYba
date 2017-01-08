@@ -2,7 +2,7 @@
 
 #install packages
 
-pacstrap $1 \
+pacstrap $1 --force  \
     base \
     base-devel \
     linux-headers \
