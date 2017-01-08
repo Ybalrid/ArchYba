@@ -41,9 +41,6 @@ pacstrap $1 \
     graphviz \
     thunderbird \
     moc \
-    gst-plugin-good \
-    gst-plugin-bad \
-    gst-plugin-base \
     gstreamer \
     gstreamer0.10-plugins \
     armagetronad \
