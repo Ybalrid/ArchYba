@@ -46,6 +46,8 @@ pacstrap $1 \
     armagetronad \
     pidgin \
     pidgin-otr\
+    vlc
+
 
 #copy config files
 
@@ -53,3 +55,4 @@ cp /etc/vimrc $1/etc/vimrc
 cp /etc/vconsole.conf $1/etc/vconsole.conf
 cp /etc/locale.conf $1/etc/locale.conf
 cp -r /etc/X11 $1/etc/X11
+cp -r /etc/armagetronad $1/etc/armagetronad
