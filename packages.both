@@ -97,7 +97,9 @@ graphviz
 thunderbird
 moc
 gstreamer
-gstreamer0.10-plugins
+gst-plugins-bad
+gst-plugins-good
+gst-plugin-ugly
 armagetronad
 pidgin
 pidgin-otr

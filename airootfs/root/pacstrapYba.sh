@@ -42,7 +42,9 @@ pacstrap $1 --force  \
     thunderbird \
     moc \
     gstreamer \
-    gstreamer0.10-plugins \
+    gst-plugins-bad \
+    gst-plugins-good \
+    gst-plugins-ugly \
     armagetronad \
     pidgin \
     pidgin-otr\
