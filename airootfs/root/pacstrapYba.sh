@@ -48,8 +48,9 @@ pacstrap $1 --force  \
     armagetronad \
     pidgin \
     pidgin-otr\
-    vlc
-
+    vlc \
+    qt4 \
+    exfat-utils \
 
 #copy config files
 
